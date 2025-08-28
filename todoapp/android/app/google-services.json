@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858318342949",
+    "project_id": "habitrack-app-8c191",
+    "storage_bucket": "habitrack-app-8c191.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858318342949:android:c0d0e2eeb362feaeb928cc",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcD2zP0VA-n3Az1bW5FOdGf_D8OYyZyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
